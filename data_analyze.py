@@ -1,8 +1,7 @@
 import pandas as pd
 
-# Constant set up for displaying data with nice format 
+# Constant value set up for displaying data with nice format 
 LINE = '-'*40
-
 
 '''
 These calculate functions take in the dataframes for either
