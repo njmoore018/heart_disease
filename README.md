@@ -1,4 +1,4 @@
-# heart_disease
+# Heart Disease
 
 # Overview
 I wrote this program to gain an understanding of how to analyze
