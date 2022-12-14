@@ -26,6 +26,4 @@ The dataset used in this program can be found here: [Dataset](https://www.kaggle
 * [Pandas Introduction Video](https://www.youtube.com/watch?v=_Eb0utIRdkw&ab_channel=RobMulla)
 
 # Future Work
-* Item 1
-* Item 2
-* Item 3
+* Add more calculations to attempt predictions of someone contracting Heart Disease
