@@ -9,11 +9,12 @@ Using Python Pandas, the program I've written analyzes some of the factors that 
 
 The dataset used in this program can be found here: [Dataset](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/hAHxIPVAcKk)
 
 # Data Analysis Results
-
-{List the questions and the answers you found by doing this analysis.}
+* What is the difference in Max Heart Rates between people with and without Heart Disease?
+* What is the difference in Blood Pressures between people with and without Heart Disease?
+* What is the difference in Cholesterol Levels between people with and without Heart Disease?
 
 # Development Environment
 * Python 3.10.4

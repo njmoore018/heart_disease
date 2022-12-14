@@ -13,11 +13,6 @@ def calc_avg_age(df, count):
     return avg
 
 # See comment above
-def calc_avg_pain(df, count):
-    avg = df['Chest pain type'].sum()/count
-    return avg
-
-# See comment above
 def calc_avg_bp(df, count):
     avg = df['BP'].sum()/count
     return avg
